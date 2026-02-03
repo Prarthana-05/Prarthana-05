@@ -15,7 +15,7 @@
 
 - 🎓 Engineering student passionate about **AI & Machine Learning ,Full Stack Developer**
 - 🏆 **3x Hackathon Finalist** with award-winning projects
-- 💼 Check out my [Portfolio](YOUR_PORTFOLIO_LINK_HERE)
+- 💼 Check out my [Portfolio](https://prarthanaa-portfolio.netlify.app/)
 
 ---
 
@@ -31,14 +31,10 @@
 ### 🤖 AI / ML / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,7 +62,6 @@
 ### 🔧 Tools & Others
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
@@ -93,6 +88,39 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prarthana-05&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
+---
+## 🌱 Currently Learning
+
+![RNN](https://img.shields.io/badge/RNN-Deep_Learning-orange?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-Generative_AI-purple?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+### 🌍 EcoSort - Smart Waste Classification
+AI-powered web app for waste management with location-based services
+- ♻️ **CNN Classification** - Identifies recyclable vs non-recyclable waste
+- 📍 **Location-Based** - Finds nearby cleanup drives & collection centers (Leaflet Maps)
+- 🛡️ **Admin Panel** - Verification & management system
+- **Tech:** CNN, React, Node.js, MongoDB, Leaflet
+
+### 🐾 PetApp - Pet Marketplace
+Real-time pet adoption & sales platform
+- 💬 **Live Chat** - Socket.io real-time messaging
+- 🔔 **Notifications** - Real-time status updates
+- 👨‍💼 **Admin Dashboard** - Full CRUD operations
+- **Tech:** React, Node.js, Socket.io, MongoDB,JWT 
+
+### 💰 Expense Tracker
+Personal finance management app with real-time sync
+- 🔐 **Firebase Authentication** - Secure user login
+- 💾 **Real-time Database** - Cloud Firestore sync
+- 🔔 **Push Notifications** - Expense alerts & reminders
+- ☁️ **Firebase Hosting** - Live deployment
+- **Tech:** React, Firebase (Auth, Firestore, Hosting, Cloud Messaging)
 
 ---
 
