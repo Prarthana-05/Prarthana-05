@@ -2,11 +2,11 @@
 <h3 align="center">AI/ML Enthusiast | Full Stack Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning;Full+Stack+Developer;Building+Intelligent+Systems" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prarthana-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prarthana-05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prarthana-05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
