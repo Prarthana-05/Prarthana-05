@@ -76,8 +76,11 @@
 ##  GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prarthana-05&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="github trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Prarthana-05&theme=tokyonight&no-frame=true" alt="Prarthana's Trophies" />
+  </a>
 </p>
+
 ---
 ##  Currently Learning
 
