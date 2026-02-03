@@ -90,26 +90,26 @@
 
 ## Featured Projects
 
-### 🌍 EcoSort - Smart Waste Classification
+###  EcoSort - Smart Waste Classification
 AI-powered web app for waste management with location-based services
-- ♻️ **CNN Classification** - Identifies recyclable vs non-recyclable waste
-- 📍 **Location-Based** - Finds nearby cleanup drives & collection centers (Leaflet Maps)
-- 🛡️ **Admin Panel** - Verification & management system
+-  **CNN Classification** - Identifies recyclable vs non-recyclable waste
+-  **Location-Based** - Finds nearby cleanup drives & collection centers (Leaflet Maps)
+-  **Admin Panel** - Verification & management system
 - **Tech:** CNN, React, Node.js, MongoDB, Leaflet
 
-### 🐾 PetApp - Pet Marketplace
+### PetApp - Pet Marketplace
 Real-time pet adoption & sales platform
-- 💬 **Live Chat** - Socket.io real-time messaging
-- 🔔 **Notifications** - Real-time status updates
-- 👨‍💼 **Admin Dashboard** - Full CRUD operations
+-  **Live Chat** - Socket.io real-time messaging
+-  **Notifications** - Real-time status updates
+- **Admin Dashboard** - Full CRUD operations
 - **Tech:** React, Node.js, Socket.io, MongoDB,JWT 
 
-### 💰 Expense Tracker
+### Expense Tracker
 Personal finance management app with real-time sync
-- 🔐 **Firebase Authentication** - Secure user login
-- 💾 **Real-time Database** - Cloud Firestore sync
-- 🔔 **Push Notifications** - Expense alerts & reminders
-- ☁️ **Firebase Hosting** - Live deployment
+- **Firebase Authentication** - Secure user login
+- **Real-time Database** - Cloud Firestore sync
+- **Push Notifications** - Expense alerts & reminders
+- **Firebase Hosting** - Live deployment
 - **Tech:** React, Firebase (Auth, Firestore, Hosting, Cloud Messaging)
 
 ---
